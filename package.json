@@ -1,0 +1,26 @@
+{
+  "name": "muro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiikeservin59-bit/muro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kiikeservin59-bit/muro/issues"
+  },
+  "homepage": "https://github.com/kiikeservin59-bit/muro#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.5",
+    "bootstrap": "^5.3.9",
+    "tailwindcss": "^4.3.5"
+  }
+}
